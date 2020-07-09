@@ -1,4 +1,4 @@
-![Hey](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Hey](https://media.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif)
 
 # Muhamad Irham Prasetyo — @irhamputra
 
@@ -19,8 +19,9 @@ Beside of working as a Software Engineer I also give some tutorials about JavaSc
 - LinkedIn 👨🏻‍💼: [Muhamad Irham Prasetyo](https://www.linkedin.com/in/muhamad-irham-prasetyo/)
 
 ### are you a Tech Recruiter 🕵🏻‍♀️ or not, just..
-take a look what I'm working so far and see my pinned work ⬇️
+take a look what I'm working so far and see my pinned work
 
+![Hey](https://media.giphy.com/media/TH6zSpaB2gkrC/giphy.gif)
 
 
 <!--
