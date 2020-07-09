@@ -12,11 +12,9 @@ Beside of working as a Software Engineer I also give some tutorials about JavaSc
 * GraphQL
 
 ### 📫 How to reach me:
-Mail 📩: irhamputraprasetyo@gmail.com
-
-Twitter 🐦: [@IRHMPTRA](https://twitter.com/irhmptra)
-
-LinkedIn 👨🏻‍💼: [Muhamad Irham Prasetyo](https://www.linkedin.com/in/muhamad-irham-prasetyo/)
+- Mail 📩: irhamputraprasetyo@gmail.com
+- Twitter 🐦: [@IRHMPTRA](https://twitter.com/irhmptra)
+- LinkedIn 👨🏻‍💼: [Muhamad Irham Prasetyo](https://www.linkedin.com/in/muhamad-irham-prasetyo/)
 
 ### are you a Tech Recruiter 🕵🏻‍♀️ or not, just..
 take a look what I'm working so far and see my pinned work ⬇️
