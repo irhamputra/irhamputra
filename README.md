@@ -1,3 +1,5 @@
+![Hey](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 # Muhamad Irham Prasetyo — @irhamputra
 
 Hi there 👋🏼 I'm Irham — a Software Engineer 👨🏻‍💻 from Indonesia 🇮🇩 and currently working at GET AG in Leipzig, Germany 🇩🇪. Previously I was also working as Software Engineer at Startup in Berlin, Germany. I'm huge geek/nerd 😅 and learn most current technology in JS/TS world. 
