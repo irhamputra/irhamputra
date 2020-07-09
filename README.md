@@ -21,7 +21,7 @@ Beside of working as a Software Engineer I also give some tutorials about JavaSc
 ### are you a Tech Recruiter 🕵🏻‍♀️ or not, just..
 take a look what I'm working so far and see my pinned work
 
-![Hey](https://media.giphy.com/media/TH6zSpaB2gkrC/giphy.gif)
+![Hey](https://media.giphy.com/media/wrBURfbZmqqXu/giphy.gif)
 
 
 <!--
