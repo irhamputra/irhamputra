@@ -2,11 +2,11 @@
 
 # Muhamad Irham Prasetyo — @irhamputra
 
-Hi there 👋🏼 My name is Muhamad Irham Prasetyo, but you can call me just Irham — I'm a Software Engineer 👨🏻‍💻 from Indonesia 🇮🇩 and currently working as a Lead Software Engineer at GET AG in Leipzig, Germany 🇩🇪. Previously I was also working as Mid-Level Software Engineer at Startup in Berlin, Germany. I'm huge geek/nerd 😅 and learn most current technology in JS/TS world. 
+Hi there 👋🏼 My name is Muhamad Irham Prasetyo, but you can call me just Irham — I'm a Software Engineer 👨🏻‍💻 from Indonesia 🇮🇩 and currently working as a Lead Software Engineer at GET AG in Leipzig, Germany 🇩🇪. Previously I was also working as Mid-Level Software Engineer at Startup in Berlin, Germany. I'm huge geek/nerd 😅 and learn the most current technology in JS/TS world. 
 
-Beside of working in office I also give some tutorials about JavaScript, React, GraphQL and Node.js to mostly beginner in communities and all students who wants to learn a web technology (I love helping people 🙋🏻‍♂️) and making some useless React components or hooks and publish it to NPM (and people love it ✨ Thank you)
+Beside of working in office I also give some tutorials about JavaScript, React, GraphQL and Node.js to mostly beginner in communities and all students who wants to learn a web technology (I love helping people 🙋🏻‍♂️) and making some useless React components or hooks and publish it to NPM (and people love it ✨ Thank you). I also work at the weekend on some project for non-profit organization in Germany and in Indonesia.
 
-## My values ✨
+## ✨ My values
 * Leading and assisting the team.
 * Providing a technical guidance and mentoring for the new or low-level software engineer
 * Contributing to Software Architecture.
