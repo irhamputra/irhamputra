@@ -2,18 +2,24 @@
 
 # Muhamad Irham Prasetyo — @irhamputra
 
-Hi there 👋🏼 I'm Irham — a Software Engineer 👨🏻‍💻 from Indonesia 🇮🇩 and currently working at GET AG in Leipzig, Germany 🇩🇪. Previously I was also working as Software Engineer at Startup in Berlin, Germany. I'm huge geek/nerd 😅 and learn most current technology in JS/TS world. 
+Hi there 👋🏼 My name is Muhamad Irham Prasetyo, but you can call me just Irham — I'm a Software Engineer 👨🏻‍💻 from Indonesia 🇮🇩 and currently working as a Lead Software Engineer at GET AG in Leipzig, Germany 🇩🇪. Previously I was also working as Mid-Level Software Engineer at Startup in Berlin, Germany. I'm huge geek/nerd 😅 and learn most current technology in JS/TS world. 
 
-Beside of working as a Software Engineer I also give some tutorials about JavaScript, React, GraphQL and Node.js to mostly beginner in communities and all students who wants to learn a web technology (I love helping people 🙋🏻‍♂️) and making some useless React components or hooks and publish it to NPM (and people love it ✨ Thank you)
+Beside of working in office I also give some tutorials about JavaScript, React, GraphQL and Node.js to mostly beginner in communities and all students who wants to learn a web technology (I love helping people 🙋🏻‍♂️) and making some useless React components or hooks and publish it to NPM (and people love it ✨ Thank you)
 
-### 💬 Ask me about: Tech Stack?
+## My values ✨
+* Leading and assisting the team.
+* Providing a technical guidance and mentoring for the new or low-level software engineer
+* Contributing to Software Architecture.
+* Serve a report to Principal Engineer (Chapter Lead) and Product Owner.
+
+## 💬 Ask me about: Tech Stack?
 * TypeScript 🖤
 * React and React Native 💝
 * VueJS
 * Node.js
 * GraphQL
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 - Mail 📩: irhamputraprasetyo@gmail.com
 - Twitter 🐦: [@IRHMPTRA](https://twitter.com/irhmptra)
 - LinkedIn 👨🏻‍💼: [Muhamad Irham Prasetyo](https://www.linkedin.com/in/muhamad-irham-prasetyo/)
