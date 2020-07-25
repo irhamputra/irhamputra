@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif" width="300" />
   <h1>Hi 👋🏼 I'm Irham 🙋🏻‍♂️</h1>
-  <strong>Lead Software Engineer 👨🏻‍💻</strong>
-  <p>Myname is Muhamad Irham Prasetyo, I'm originally from Indonesia 🇮🇩, <br/> Based out in Leipizg, Germany 🇩🇪</strong>
+  <strong>Lead Software Engineer 👨🏻‍💻 at <a href='https://get-ag.com'>GET AG</a></strong>
+  <p>Myname is Muhamad Irham Prasetyo, I'm originally from Indonesia 🇮🇩 <br/> Based out in Leipizg, Germany 🇩🇪</strong>
   
   <hr/>
   
@@ -11,14 +11,12 @@
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="70" />
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="70" />
   <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" width="70" />
   
   <hr />
   
   <div>
     <h4>Connect 🤝</h4>
-    <a href="href='https://de.linkedin.com/in/muhamad-irham-prasetyo/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" />
-      Muhamad Irham Prasetyo
-    </a>
+    <a href='https://de.linkedin.com/in/muhamad-irham-prasetyo/en-us?trk=profile-badge'><strong>LinkedIn</strong></a>
   </div>
 </div>
