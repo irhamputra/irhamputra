@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif" width="300" />
   <h1>Hi 👋🏼 I'm Irham 🙋🏻‍♂️</h1>
   <strong>Lead Software Engineer 👨🏻‍💻</strong>
-  <p>My full name is Muhamad Irham Prasetyo, I'm originally from Indonesia 🇮🇩, but live in Leipizg, Germany 🇩🇪</strong>
+  <p>Myname is Muhamad Irham Prasetyo, I'm originally from Indonesia 🇮🇩, <br/> Based out in Leipizg, Germany 🇩🇪</strong>
   
   <hr/>
   
@@ -15,9 +15,10 @@
   <hr />
   
   <div>
-    <h4>Connect</h4>
+    <h4>Connect 🤝</h4>
     <a href="href='https://de.linkedin.com/in/muhamad-irham-prasetyo/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" />
+      Muhamad Irham Prasetyo
     </a>
   </div>
 </div>
