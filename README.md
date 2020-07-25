@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif" width="300" />
   <h1>Hi 👋🏼 I'm Irham 🙋🏻‍♂️</h1>
   <strong>Lead Software Engineer 👨🏻‍💻</strong>
-  <p>My name is Muhamad Irham Prasetyo, I'm originally from Indonesia 🇮🇩 <br/> Based out in Leipizg, Germany 🇩🇪</strong>
+  <p>My name is Muhamad Irham Prasetyo, I come from Indonesia 🇮🇩 <br/> Based out in Leipizg, Germany 🇩🇪</strong>
   
   <hr/>
   
