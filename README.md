@@ -1,4 +1,4 @@
-![Hey](https://media.giphy.com/media/cJSDRt8csBx0A7YFfh/giphy.gif)
+![Hey](https://media.giphy.com/media/27bTaEiamsmCGW2E07/giphy.gif)
 
 # Muhamad Irham Prasetyo — @irhamputra
 
