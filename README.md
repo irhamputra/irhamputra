@@ -1,13 +1,16 @@
 <div align="center">
   <img src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif" width="300" />
   <h1>Hi 👋🏼 I'm Irham 🙋🏻‍♂️</h1>
-  <strong>Lead Software Engineer | リードソフトウェア開発者 👨🏻‍💻</strong>
+  <strong>Lead Software Engineer</strong>
   <p>My name is Muhamad Irham Prasetyo, I come from Indonesia 🇮🇩 <br/> Based out in Leipizg, Germany 🇩🇪</strong>
   
   <hr/>
   
-  <h3>Main Techstacks 🛠</h4>
+  <h3>Languages</h3>
   <img src="https://cloud.githubusercontent.com/assets/10656223/15247118/e71dc6a2-1909-11e6-9b90-ae86204f41c3.png" width="70" />
+  <img src="https://www.rust-lang.org/logos/rust-logo-256x256-blk.png" width="70" />
+  
+  <h3>Main Techstacks 🛠</h4>
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="70" />
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="70" />
   <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="70" />
