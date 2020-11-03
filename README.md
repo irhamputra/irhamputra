@@ -35,4 +35,6 @@
       </a> 
     </p>
   </div>
+  
+  ![github stats](https://github-readme-stats.vercel.app/api?username=irhamputra&show_icons=true)
 </div>
